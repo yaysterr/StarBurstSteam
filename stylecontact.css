@@ -219,6 +219,9 @@ body{
     border-radius: 5px;
     transition: background 0.3s;
 }
+.contact-container h4{
+    color: #fff;
+}
 
 .contact-container :hover {
     transform: scale(1.1);
