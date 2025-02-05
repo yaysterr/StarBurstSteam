@@ -209,6 +209,7 @@ body{
     margin-bottom:10px;
 }
 .contact-container a{
+    letter-spacing: 5px;
      display:flex;
      margin-bottom: 1rem;
     display: inline-block;
