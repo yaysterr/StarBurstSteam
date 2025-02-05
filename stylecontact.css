@@ -220,7 +220,7 @@ body{
     text-decoration: none;
     border-radius: 5px;
     transition: background 0.3s;
-    border: 200px;
+    padding-top:100px;
 }
 .contact-container h4{
     color: #fff;
